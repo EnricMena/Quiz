@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="restart">Reiniciar</string>
+    <string name="correct">Correcto</string>
+    <string name="incorrect">Incorrecto</string>
+
+    <!-- Textos para pantalla de resultado -->
+    <string name="hits_zero">Aciertos: 0</string>
+    <string name="fails_zero">Fallos: 0</string>
+</resources>
